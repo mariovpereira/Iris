@@ -4,7 +4,7 @@
 
 Iris is an innovative iOS application designed to assist visually impaired users by converting LiDAR depth data into musical notes. The app was developed by students from Pembroke Pines Charter High School in Pembroke Pines, Florida, as part of the Made to Move Communities (MTMC) challenge by Otis, which they won at the Regional level in 2025.
 
-Made to Move Communities is a global STEM education program launched by Otis in 2020 that engages students to develop innovative mobility solutions for underserved communities. In its fifth year, the program focused on AI-driven inclusive mobility solutions, which led to the creation of Iris.
+Made to Move Communities is a global STEM education program launched by Otis Elevator in 2020 that engages students to develop innovative mobility solutions for underserved communities. In its fifth year, the program focused on AI-driven inclusive mobility solutions, which led to the creation of Iris.
 
 ## Features
 
