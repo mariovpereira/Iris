@@ -1,0 +1,38 @@
+# Iris Application - Coauthor Information
+
+## Artificial Intelligence Coauthor
+
+This application was coauthored with assistance from:
+
+Claude Code (Anthropic, Claude 3.7 Sonnet model)
+Version: claude-3-7-sonnet-20250219
+Date of assistance: April 4, 2025
+
+## Nature of Contribution
+
+Claude Code provided assistance with:
+
+1. Analyzing the requirements from Instructions.md
+2. Developing an implementation plan
+3. Integrating code from the LiDARDepth and MusicNotes projects
+4. Writing and refining code for:
+   - Depth data processing using Metal
+   - Audio feedback with SoundFont instruments
+   - Vertical scanning with sector-based musical feedback
+   - User interface components in SwiftUI
+5. Ensuring proper documentation and licensing information
+6. Creating implementation summaries and setup instructions
+7. Troubleshooting compilation issues and access modifiers
+
+## Human-AI Collaboration
+
+This project represents a collaborative effort between human developer(s) and artificial intelligence. The human developer(s) provided direction, requirements, and final approval, while Claude Code contributed to the technical implementation and problem-solving aspects.
+
+## Acknowledgment
+
+Anthropic's Claude Code is acknowledged as a coauthor of this project. This acknowledgment is provided in the spirit of transparency regarding the development process and use of AI assistance.
+
+---
+
+For more information about Claude Code, visit:
+https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
