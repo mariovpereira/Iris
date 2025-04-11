@@ -22,7 +22,9 @@ Made to Move Communities is a global STEM education program launched by Otis Ele
 - **Stereo Panning**: Enhances spatial orientation through directional audio
 
 <p align="center">
-  <img src="Iris/screenshot1.jpg" alt="Iris Depth Table View" width="600">
+  <a href="https://youtube.com/shorts/CtDEEJle-3M?si=54tnBxbq3wxWBd3G">
+    <img src="https://img.youtube.com/vi/CtDEEJle-3M/0.jpg" alt="Iris Depth Table Demo" width="600">
+  </a>
 </p>
 
 ## How It Works
