@@ -15,6 +15,10 @@ Made to Move Communities is a global STEM education program launched by Otis Ele
 - **Sectored Audio Feedback**: Different instruments for left, center, and right sectors of the screen
 - **Stereo Panning**: Enhances spatial orientation through directional audio
 
+<p align="center">
+  <img src="Iris/screenshot1.jpg" alt="Iris Depth Table View" width="600">
+</p>
+
 ## How It Works
 
 Iris uses the iPhone's LiDAR sensor to detect objects in the environment and translates distance information into musical notes. Different depths correspond to different notes, creating an audible representation of the physical space around the user:
@@ -23,6 +27,11 @@ Iris uses the iPhone's LiDAR sensor to detect objects in the environment and tra
 2. Farther objects produce lower-pitched notes (C1)
 3. Different screen sections play different instruments (Harp, Piano, Synth Pad)
 4. Audio panning enhances directional awareness
+
+<p align="center">
+  <img src="Iris/screenshot2.jpg" alt="Iris Depth Grid View" width="400" style="display:inline-block; margin:0 10px">
+  <img src="Iris/screenshot3.jpg" alt="Iris White Cane Mode" width="400" style="display:inline-block; margin:0 10px">
+</p>
 
 ## Technology
 
@@ -74,6 +83,10 @@ Build and run the application on your LiDAR-enabled device.
 
 ### Teacher
 - Ms. Darlene Laffler
+
+<p align="center">
+  <img src="Iris/students.jpg" alt="Project Team at Miami Lighthouse for the Blind" width="700">
+</p>
 
 ## Acknowledgements
 
