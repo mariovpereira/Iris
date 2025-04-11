@@ -37,8 +37,9 @@ Iris uses the iPhone's LiDAR sensor to detect objects in the environment and tra
 4. Audio panning enhances directional awareness
 
 <p align="center">
-  <img src="Iris/screenshot2.jpg" alt="Iris Depth Grid View" width="400" style="display:inline-block; margin:0 10px">
-  <img src="Iris/screenshot3.jpg" alt="Iris White Cane Mode" width="400" style="display:inline-block; margin:0 10px">
+  <a href="https://youtube.com/shorts/42XPsn1kjgU">
+    <img src="https://img.youtube.com/vi/42XPsn1kjgU/0.jpg" alt="Iris Modes Demonstration" width="600">
+  </a>
 </p>
 
 ## Technology
