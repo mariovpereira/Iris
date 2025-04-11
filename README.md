@@ -6,6 +6,12 @@ Iris is an innovative iOS application designed to assist visually impaired users
 
 Made to Move Communities is a global STEM education program launched by Otis Elevator in 2020 that engages students to develop innovative mobility solutions for underserved communities. In its fifth year, the program focused on AI-driven inclusive mobility solutions, which led to the creation of Iris.
 
+<p align="center">
+  <a href="https://youtube.com/shorts/wNBKJqATEvs">
+    <img src="https://img.youtube.com/vi/wNBKJqATEvs/0.jpg" alt="Iris Demo Video" width="450">
+  </a>
+</p>
+
 ## Features
 
 - **White Cane Mode**: Central rectangle displaying real-time LiDAR depth data with audio feedback
